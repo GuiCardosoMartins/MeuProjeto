@@ -28,4 +28,4 @@ O projeto é um blog de curiosidades sobre 5 continentes do planeta Terra.<br>
 Neste blog eu descrevo sobre os principais países, como surgiram, sua economia, e demais aspectos.
 
 
-#### Utilizei como base, alguns tutoriais e aulas do canal do site Origamid.
+#### Utilizei como base, alguns tutoriais e aulas do canal e do site Origamid.
