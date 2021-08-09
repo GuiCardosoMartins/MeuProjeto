@@ -19,7 +19,7 @@
   
 ### Pré-requisitos
 
-Antes de começar, é importante que você tenha um pouco de conhecimentos sobre desenvolvimento web, como HTML5 e CSS3. Também é importante saber como implementar o framework de CSS Bootstrap.
+Antes de começar, é importante que você tenha um pouco de conhecimentos sobre desenvolvimento web, como HTML5 e CSS3. Também é importante saber como implementar o framework de CSS Bootstrap.<br>
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 ### O que faz?
