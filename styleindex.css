@@ -1,0 +1,16 @@
+body{
+    background-color: #16b45d;
+}
+
+img{
+    margin-left: 300px;
+    margin-top: 80px;
+}
+p{
+    position: relative;
+    top: 75px;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
